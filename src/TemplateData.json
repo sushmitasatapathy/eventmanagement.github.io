@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "image": "https://www.tripsavvy.com/thmb/t0IRbKmgYQBQssO7PiX9Pt4mRUI=/3234x2083/filters:no_upscale():max_bytes(150000):strip_icc()/148807119-56a3c2d45f9b58b7d0d39da3.jpg",
+        "title": "Mumbai-Maharastra",
+        "price": "15 events"
+    },
+    {
+        "id": 2,
+        "image": "https://i.pinimg.com/originals/68/6d/6e/686d6efbd921124ba6b42c61d5bbf6a2.jpg",
+        "title": "Chennai-India",
+        "price": "9 events"
+    },
+    {
+        "id": 3,
+        "image": "https://www.bloggbuzz.com/wp-content/uploads/2021/05/red-fort.jpg",
+        "title": "Delhi-India",
+        "price": "7 events"
+
+    },
+    {
+        "id": 4,
+        "image": "https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20180803145213/Jagannath-Puri-Rath-Yatra-Orissa.jpg",
+        "title": "Orissa-India",
+        "price": "10 events"
+        
+    },
+    {
+        "id": 5,
+        "image": "https://2.bp.blogspot.com/-nFEv3g4Y__E/VuaAvVVMQ7I/AAAAAAAAF0A/0udTfi8q8i4Y9ufr1EIfYYHd-UgvSikRw/s1600/North-India.jpg",
+        "title": "North-India",
+        "price": "17  events"
+        
+    },
+    {
+        "id": 6,
+        "image": "https://cdn1.tripoto.com/media/filter/nxxl/img/1429685/Image/1568274030_south_india_web.jpg",
+        "title": "South-India",
+        "price": "15  events"
+        
+    }
+
+]
